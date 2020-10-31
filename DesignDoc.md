@@ -14,6 +14,8 @@ Boards will contain tickets, and columns. They will also have the concept of a t
 ## Minimal Viable Product
 Simply a list of boards of which tickets are contained into columns. Tickets will have a title, body and bullet list of tasks which can be added or removed. They will be persistently stored in a database for access later. Many boards can be available for usage.
 
+Good place to start is going to be a single Board layout to drag and drop around a set of tickets. Will then expand to the MVP after that.
+
 ## Product Stack
 Want to use a Go back-end to handle the MVC and the API strucutre.
 
